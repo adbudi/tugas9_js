@@ -1,1 +1,4 @@
-# tugas9_js
+# Variable Obj
+ 
+ 
+![tugas 9](tgs9.png)
